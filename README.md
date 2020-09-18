@@ -1,3 +1,3 @@
 # artpractice173-2
 
-https://kaedesasaki.github.io/artpractice173-2/
+https://github.com/kaedesasaki/artpractice173-2.git
